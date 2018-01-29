@@ -1,2 +1,3 @@
-# gophercises
-My exercises from gophercises.com
+# Gophercises
+
+My exercises from [gophercises.com](https://gophercises.com/exercises/)
